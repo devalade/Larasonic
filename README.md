@@ -22,7 +22,7 @@ Larasonic is a modern, open-source SaaS starter kit with Laravel, Vue.js, Tailwi
 
 ```bash
 # Clone the repo
-git clone git@github.com:pushpak1300/Larasonic.git
+git clone git@github.com:devalade/Larasonic.git
 cd Larasonic
 
 # Install dependencies
